@@ -1,5 +1,5 @@
-# numerical_methods
-## 工程计算方法
+# Numerical Methods(Matlab版）
+# 工程计算方法
    作者：刘鹏，张超慧
 ### 第一章 误差分析
 #### 1.1 误差估计
